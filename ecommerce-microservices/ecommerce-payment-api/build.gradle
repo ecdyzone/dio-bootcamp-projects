@@ -1,5 +1,5 @@
 plugins {
-    id 'com.commercehub.gradle.plugin.avro' version '0.17.0'
+    id "com.commercehub.gradle.plugin.avro" version "0.99.99"
     id 'org.springframework.boot' version '2.3.1.RELEASE'
     id 'io.spring.dependency-management' version '1.0.9.RELEASE'
     id 'java'
